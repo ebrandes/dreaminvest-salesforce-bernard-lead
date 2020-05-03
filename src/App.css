@@ -1,3 +1,20 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background: #1C8ABE url("./images/bernard_dribbble-01.jpg") right top no-repeat;
+  font-family: 'Jost', sans-serif;
+}
+
+
+header {
+  font-size: 32px;
+  text-align: center;
+  color: #233E5B;
+  margin: 25px;
+  font-weight: bold;
+}
+
+
 .App {
   text-align: center;
 }
